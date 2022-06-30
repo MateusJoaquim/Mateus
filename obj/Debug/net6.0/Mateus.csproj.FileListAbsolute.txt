@@ -1,0 +1,15 @@
+C:\dev\Mateus\obj\Debug\net6.0\Mateus.csproj.AssemblyReference.cache
+C:\dev\Mateus\obj\Debug\net6.0\Mateus.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Mateus\obj\Debug\net6.0\Mateus.AssemblyInfoInputs.cache
+C:\dev\Mateus\obj\Debug\net6.0\Mateus.AssemblyInfo.cs
+C:\dev\Mateus\obj\Debug\net6.0\Mateus.csproj.CoreCompileInputs.cache
+C:\dev\Mateus\bin\Debug\net6.0\Mateus.exe
+C:\dev\Mateus\bin\Debug\net6.0\Mateus.deps.json
+C:\dev\Mateus\bin\Debug\net6.0\Mateus.runtimeconfig.json
+C:\dev\Mateus\bin\Debug\net6.0\Mateus.dll
+C:\dev\Mateus\bin\Debug\net6.0\Mateus.pdb
+C:\dev\Mateus\obj\Debug\net6.0\Mateus.dll
+C:\dev\Mateus\obj\Debug\net6.0\refint\Mateus.dll
+C:\dev\Mateus\obj\Debug\net6.0\Mateus.pdb
+C:\dev\Mateus\obj\Debug\net6.0\Mateus.genruntimeconfig.cache
+C:\dev\Mateus\obj\Debug\net6.0\ref\Mateus.dll
